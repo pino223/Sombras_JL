@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\bin\Debug\netstandard2.0\Sombras_JLAR.deps.json
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\bin\Debug\netstandard2.0\Sombras_JLAR.dll
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\bin\Debug\netstandard2.0\ref\Sombras_JLAR.dll
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\bin\Debug\netstandard2.0\Sombras_JLAR.pdb
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\Sombras_JLAR.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\Sombras_JLAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\Sombra.xaml.g.cs
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\Sombras_JLAR.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\Sombras_JLAR.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\Sombras_JLAR.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\Sombras_JLAR.dll
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\refint\Sombras_JLAR.dll
+C:\Users\Dell\source\repos\Sombras_JLAR\Sombras_JLAR\Sombras_JLAR\obj\Debug\netstandard2.0\Sombras_JLAR.pdb
